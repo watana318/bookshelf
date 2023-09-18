@@ -5,3 +5,5 @@
 # フォルダ構成
 ## AWS
 ## Computer Geometry
+## HoloScope
+## Google Cloud
